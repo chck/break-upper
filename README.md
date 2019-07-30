@@ -1,4 +1,5 @@
 # synr: A script that leaving from your unnecessary chat rooms
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/722a6a380dd44b3f9635fbda8d38fdbe)](https://app.codacy.com/app/chck/synr?utm_source=github.com&utm_medium=referral&utm_content=chck/synr&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.com/chck/synr.svg?branch=master)](https://travis-ci.com/chck/synr)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/chck/synr/blob/master/LICENSE)
 
